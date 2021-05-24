@@ -1,0 +1,2 @@
+run = "gcc -Wall -Wpedantic -Wextra -Wimplicit-fallthrough=0 main.c -lc -o main && ./main"
+language = "C"
